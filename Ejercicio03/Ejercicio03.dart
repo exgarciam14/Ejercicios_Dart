@@ -23,7 +23,7 @@ void main() {
   List<Empleado> empleados = [
     Empleado(nombre: 'Ana', puesto: 'Desarrolladora', salario: 3000),
     Empleado(nombre: 'Luis', puesto: 'Diseñador',   salario: 2500),
-    Empleado(nombre: 'María', puesto: 'Gerente',     salario: 4000),
+    Empleado(nombre: 'Maria', puesto: 'Gerente',     salario: 4000),
   ];
   
   double total = calcularSalarioTotal(empleados);
