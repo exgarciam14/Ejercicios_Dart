@@ -22,7 +22,7 @@ double calcularSalarioPromedio(List<Empleado> lista) {
 void main() {
   List<Empleado> empleados = [
     Empleado(nombre: 'Ana', puesto: 'Desarrolladora', salario: 3000),
-    Empleado(nombre: 'Luis', puesto: 'Diseñador',   salario: 2500),
+    Empleado(nombre: 'Luis', puesto: 'Cajero',   salario: 2500),
     Empleado(nombre: 'Maria', puesto: 'Gerente',     salario: 4000),
   ];
   
